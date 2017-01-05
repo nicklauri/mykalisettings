@@ -1,0 +1,227 @@
+genymotion: segmentation fault:
+
+command: apt-get install "^libxcb.*" libx11-xcb-dev libglu1-mesa-dev libxrender-dev
+
+Note, selecting 'libxcb-dpms0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-dpms0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-icccm4-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-present-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-icccm4' for regex '^libxcb.*'
+Note, selecting 'libxcb-xf86dri0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-xf86dri0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-xfixes0' for regex '^libxcb.*'
+Note, selecting 'libxcb-xrm0' for regex '^libxcb.*'
+Note, selecting 'libxcb-aux0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-record0' for regex '^libxcb.*'
+Note, selecting 'libxcb-render-util0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-util0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-doc' for regex '^libxcb.*'
+Note, selecting 'libxcb-present0' for regex '^libxcb.*'
+Note, selecting 'libxcb-image0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-xfixes0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-xfixes0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-res0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-res0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-xvmc0' for regex '^libxcb.*'
+Note, selecting 'libxcb-render-util0' for regex '^libxcb.*'
+Note, selecting 'libxcb-util0' for regex '^libxcb.*'
+Note, selecting 'libxcb-xkb1-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-screensaver0' for regex '^libxcb.*'
+Note, selecting 'libxcb-event1-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-dpms0' for regex '^libxcb.*'
+Note, selecting 'libxcb-composite0' for regex '^libxcb.*'
+Note, selecting 'libxcb-shm0' for regex '^libxcb.*'
+Note, selecting 'libxcb-randr0' for regex '^libxcb.*'
+Note, selecting 'libxcb-render0' for regex '^libxcb.*'
+Note, selecting 'libxcb1-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb1-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-damage0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-damage0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-xvmc0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-xvmc0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-cursor0' for regex '^libxcb.*'
+Note, selecting 'libxcb-sync0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-record0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-record0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-randr0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-randr0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-xtest0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-xinerama0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-xtest0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-dri3-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-xinerama0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-cursor-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-image0' for regex '^libxcb.*'
+Note, selecting 'libxcb1' for regex '^libxcb.*'
+Note, selecting 'libxcb-shape0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-shape0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-res0' for regex '^libxcb.*'
+Note, selecting 'libxcb-icccm1-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-xrm-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-reply1-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-xinerama0' for regex '^libxcb.*'
+Note, selecting 'libxcb-keysyms1' for regex '^libxcb.*'
+Note, selecting 'libxcb-xv0' for regex '^libxcb.*'
+Note, selecting 'libxcb-shm0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-shm0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-render0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-screensaver0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-render0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-screensaver0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-shape0' for regex '^libxcb.*'
+Note, selecting 'libxcb-present0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-atom1-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-ewmh2' for regex '^libxcb.*'
+Note, selecting 'libxcb-keysyms1-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-property1-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-xv0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-xv0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-ewmh-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-composite0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-composite0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-sync-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-ewmh1-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-dri2-0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-dri2-0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-damage0' for regex '^libxcb.*'
+Note, selecting 'libxcb-xkb-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-glx0' for regex '^libxcb.*'
+Note, selecting 'libxcb-glx0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-glx0-dev' for regex '^libxcb.*'
+Note, selecting 'libxcb-xf86dri0' for regex '^libxcb.*'
+Note, selecting 'libxcb-dri2-0' for regex '^libxcb.*'
+Note, selecting 'libxcb-xtest0' for regex '^libxcb.*'
+Note, selecting 'libxcb-dri3-0' for regex '^libxcb.*'
+Note, selecting 'libxcb-sync1-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-xkb1' for regex '^libxcb.*'
+Note, selecting 'libxcb-sync1' for regex '^libxcb.*'
+Note, selecting 'libxcb-dri3-0-dbg' for regex '^libxcb.*'
+Note, selecting 'libxcb-sync-dev' instead of 'libxcb-sync0-dev'
+libglu1-mesa-dev is already the newest version (9.0.0-2.1).
+libglu1-mesa-dev set to manually installed.
+libx11-xcb-dev is already the newest version (2:1.6.3-1).
+libx11-xcb-dev set to manually installed.
+libxcb-dri2-0 is already the newest version (1.12-1).
+libxcb-dri2-0 set to manually installed.
+libxcb-dri2-0-dev is already the newest version (1.12-1).
+libxcb-dri2-0-dev set to manually installed.
+libxcb-dri3-0 is already the newest version (1.12-1).
+libxcb-dri3-0 set to manually installed.
+libxcb-dri3-dev is already the newest version (1.12-1).
+libxcb-dri3-dev set to manually installed.
+libxcb-glx0 is already the newest version (1.12-1).
+libxcb-glx0 set to manually installed.
+libxcb-glx0-dev is already the newest version (1.12-1).
+libxcb-glx0-dev set to manually installed.
+libxcb-icccm4 is already the newest version (0.4.1-1).
+libxcb-icccm4 set to manually installed.
+libxcb-image0 is already the newest version (0.4.0-1).
+libxcb-image0 set to manually installed.
+libxcb-keysyms1 is already the newest version (0.4.0-1).
+libxcb-keysyms1 set to manually installed.
+libxcb-present-dev is already the newest version (1.12-1).
+libxcb-present-dev set to manually installed.
+libxcb-present0 is already the newest version (1.12-1).
+libxcb-present0 set to manually installed.
+libxcb-randr0 is already the newest version (1.12-1).
+libxcb-randr0 set to manually installed.
+libxcb-randr0-dev is already the newest version (1.12-1).
+libxcb-randr0-dev set to manually installed.
+libxcb-render-util0 is already the newest version (0.3.9-1).
+libxcb-render-util0 set to manually installed.
+libxcb-render0 is already the newest version (1.12-1).
+libxcb-render0 set to manually installed.
+libxcb-render0-dev is already the newest version (1.12-1).
+libxcb-render0-dev set to manually installed.
+libxcb-res0 is already the newest version (1.12-1).
+libxcb-res0 set to manually installed.
+libxcb-shape0 is already the newest version (1.12-1).
+libxcb-shape0 set to manually installed.
+libxcb-shape0-dev is already the newest version (1.12-1).
+libxcb-shape0-dev set to manually installed.
+libxcb-shm0 is already the newest version (1.12-1).
+libxcb-shm0 set to manually installed.
+libxcb-sync-dev is already the newest version (1.12-1).
+libxcb-sync-dev set to manually installed.
+libxcb-sync1 is already the newest version (1.12-1).
+libxcb-sync1 set to manually installed.
+libxcb-util0 is already the newest version (0.3.8-3).
+libxcb-util0 set to manually installed.
+libxcb-xf86dri0 is already the newest version (1.12-1).
+libxcb-xf86dri0 set to manually installed.
+libxcb-xfixes0 is already the newest version (1.12-1).
+libxcb-xfixes0 set to manually installed.
+libxcb-xfixes0-dev is already the newest version (1.12-1).
+libxcb-xfixes0-dev set to manually installed.
+libxcb-xinerama0 is already the newest version (1.12-1).
+libxcb-xinerama0 set to manually installed.
+libxcb-xkb1 is already the newest version (1.12-1).
+libxcb-xkb1 set to manually installed.
+libxcb-xv0 is already the newest version (1.12-1).
+libxcb-xv0 set to manually installed.
+libxcb1 is already the newest version (1.12-1).
+libxcb1-dev is already the newest version (1.12-1).
+libxcb1-dev set to manually installed.
+The following additional packages will be installed:
+  x11proto-render-dev
+
+
+
+Get:1 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-cursor0 amd64 0.1.1-3 [14.2 kB]
+Get:2 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-ewmh2 amd64 0.4.1-1 [33.4 kB]         
+Get:3 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-composite0 amd64 1.12-1 [95.5 kB]
+Get:4 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-composite0-dev amd64 1.12-1 [96.0 kB]
+Get:5 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-damage0 amd64 1.12-1 [95.2 kB]
+Get:6 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-damage0-dev amd64 1.12-1 [95.8 kB]
+Get:7 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-doc all 1.12-1 [8,286 kB]             
+Get:8 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-dpms0 amd64 1.12-1 [95.4 kB]          
+Get:9 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-dpms0-dev amd64 1.12-1 [95.8 kB]      
+Get:10 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-record0 amd64 1.12-1 [97.4 kB]       
+Get:11 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-record0-dev amd64 1.12-1 [98.2 kB]   
+Get:12 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-res0-dev amd64 1.12-1 [97.5 kB]      
+Get:13 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-screensaver0 amd64 1.12-1 [96.5 kB]  
+Get:14 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-screensaver0-dev amd64 1.12-1 [97.4 kB]
+Get:15 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-shm0-dev amd64 1.12-1 [96.9 kB]      
+Get:16 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xf86dri0-dev amd64 1.12-1 [97.8 kB]  
+Get:17 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xinerama0-dev amd64 1.12-1 [96.2 kB] 
+Get:18 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xkb-dev amd64 1.12-1 [129 kB]        
+Get:19 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xrm0 amd64 1.0-2 [24.4 kB]           
+Get:20 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-util0-dev amd64 0.3.8-3 [25.6 kB]    
+Get:21 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xrm-dev amd64 1.0-2 [18.8 kB]        
+Get:22 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xtest0 amd64 1.12-1 [95.1 kB]        
+Get:23 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xtest0-dev amd64 1.12-1 [95.5 kB]    
+Get:24 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xv0-dev amd64 1.12-1 [102 kB]        
+Get:25 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xvmc0 amd64 1.12-1 [96.6 kB]         
+Get:26 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xvmc0-dev amd64 1.12-1 [97.5 kB]     
+Get:27 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 x11proto-render-dev all 2:0.11.1-2 [20.8 kB]
+Get:28 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxrender-dev amd64 1:0.9.10-1 [40.8 kB]   
+Get:29 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-composite0-dbg amd64 1.12-1 [99.3 kB]
+Get:30 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-render-util0-dev amd64 0.3.9-1 [17.8 kB]
+Get:31 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-image0-dev amd64 0.4.0-1 [29.3 kB]   
+Get:32 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-cursor-dev amd64 0.1.1-3 [16.8 kB]   
+Get:33 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-damage0-dbg amd64 1.12-1 [98.3 kB]   
+Get:34 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-dpms0-dbg amd64 1.12-1 [98.5 kB]     
+Get:35 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-dri2-0-dbg amd64 1.12-1 [104 kB]     
+Get:36 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-dri3-0-dbg amd64 1.12-1 [99.5 kB]    
+Get:37 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-ewmh-dev amd64 0.4.1-1 [39.7 kB]     
+Get:38 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-glx0-dbg amd64 1.12-1 [157 kB]       
+Get:39 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-icccm4-dev amd64 0.4.1-1 [29.5 kB]   
+Get:40 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-keysyms1-dev amd64 0.4.0-1 [16.1 kB] 
+Get:41 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-present0-dbg amd64 1.12-1 [100 kB]   
+Get:42 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-randr0-dbg amd64 1.12-1 [131 kB]     
+Get:43 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-record0-dbg amd64 1.12-1 [103 kB]    
+Get:44 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-render0-dbg amd64 1.12-1 [127 kB]    
+Get:45 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-res0-dbg amd64 1.12-1 [102 kB]       
+Get:46 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-screensaver0-dbg amd64 1.12-1 [102 kB]
+Get:47 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-shape0-dbg amd64 1.12-1 [102 kB]     
+Get:48 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-shm0-dbg amd64 1.12-1 [101 kB]       
+Get:49 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-sync1-dbg amd64 1.12-1 [109 kB]      
+Get:50 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xf86dri0-dbg amd64 1.12-1 [103 kB]   
+Get:51 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xfixes0-dbg amd64 1.12-1 [112 kB]    
+Get:52 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xinerama0-dbg amd64 1.12-1 [99.0 kB] 
+Get:53 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xkb1-dbg amd64 1.12-1 [173 kB]       
+Get:54 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xtest0-dbg amd64 1.12-1 [98.3 kB]    
+Get:55 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xv0-dbg amd64 1.12-1 [112 kB]        
+Get:56 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb-xvmc0-dbg amd64 1.12-1 [102 kB]      
+Get:57 http://mirrors.neusoft.edu.cn/kali kali-rolling/main amd64 libxcb1-dbg amd64 1.12-1 [237 kB]    
+

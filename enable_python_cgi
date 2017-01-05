@@ -1,0 +1,12 @@
+
+	a2enmod cgi
+	leafpad /etc/apache2/apache2.conf
+		(line 170)
+		<Directory /var/www/>
+			Options Indexes FollowSymLinks
+			Options +ExecCGI
+			AddHandler cgi-script .py .kproj
+			AllowOverride None
+			Require all granted
+		</Directory>
+	service apache2 start
